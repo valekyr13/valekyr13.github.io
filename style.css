@@ -1,0 +1,45 @@
+body {
+background-color:#cce6ff; 
+font-family:"Georgia";
+font-size:20px;
+margin: 10px; 
+text-align: center; 
+}    
+#container{
+background-color:#b3d9ff;
+text-align: center;
+}
+header{
+background-color:  #80b3ff;
+}
+/* Caption text */
+#text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: bottom;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+a:hover {
+background: #FFFFCC;
+font-weight: bold;
+}
+
+footer {
+	background-color: #0080ff;
+	height: 30px;
+}
+
+
